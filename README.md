@@ -8,8 +8,9 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bhupender0415" alt="bhupender0415" /></a> </p>
 
 - 🌱 I’m currently learning **React, Java Script, Data Structure and Algorithm**
-- 💬 Ask me about **Embedded System, Data Structures, E-Mobility**
+- 💬 Ask me about **Embedded System, Web Developement, Data Structures, E-Mobility**
 - 📫 How to reach me **Bhupender0415@gmail.com**
+- 📝 I try to solve leetcode problems regularly **https://leetcode.com/bhupender0415/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
