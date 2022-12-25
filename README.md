@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning **React, Java Script, Data Structure and Algorithm**
 - 💬 Ask me about **Embedded System, Web Developement, Data Structures, E-Mobility**
 - 📫 How to reach me **Bhupender0415@gmail.com**
-- 📝 I try to solve leetcode problems regularly **https://leetcode.com/bhupender0415/**
+- 📝 I try to solve leetcode problems regularly
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
