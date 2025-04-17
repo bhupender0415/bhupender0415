@@ -7,7 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhupender0415&label=Profile%20views&color=0e75b6&style=flat" alt="bhupender0415" /></p>
 
 - 🎯I'm dedicating time to enhance my grasp of **data structures and algorithms.**
-- 🌱 I’m currently learning  **Real Timme Operationg System(freeRTOS), Driver Development for embedded devices**
+- 🌱 I’m currently learning  **Real-Time Operating System(freeRTOS), Driver Development for embedded devices**
 - 💬 Ask me about **Embedded System, Data Structures, Machine learning, E-Mobility**
 - 📫 How to reach me **Bhupender0415@gmail.com**
 
